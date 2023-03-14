@@ -1,0 +1,6 @@
+id=2, name='doll', count=9, frequency=30
+id=1, name='constructor', count=9, frequency=40
+id=1, name='constructor', count=8, frequency=40
+id=2, name='doll', count=8, frequency=30
+id=2, name='doll', count=7, frequency=30
+id=1, name='constructor', count=7, frequency=40
